@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"ayu",
+		"Emmet",
+		"Git",
+		"Handlebars",
+		"JavaScriptNext - ES6 Syntax",
+		"JSON Reindent",
+		"Markdown Preview",
+		"Package Control",
+		"RailsGoToSpec",
+		"RuboCop",
+		"Ruby Slim",
+		"Sass",
+		"SideBarEnhancements",
+		"Spec Finder",
+		"SublimeLinter",
+		"SublimeLinter-contrib-reek",
+		"ToggleQuotes",
+		"TrailingSpaces",
+		"WakaTime"
+	]
+}

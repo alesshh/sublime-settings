@@ -1,0 +1,35 @@
+{
+	"color_scheme": "Packages/ayu/ayu-dark.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"tmp",
+		"log"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 21,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80,
+		100
+	],
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "ayu-dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"ui_big_tabs": true,
+	"ui_fix_tab_labels": true,
+	"ui_font_source_code_pro": true,
+	"ui_separator": true,
+	"use_simple_full_screen": true
+}
