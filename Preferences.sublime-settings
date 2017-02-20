@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/ayu/ayu-dark.tmTheme",
+	"color_scheme": "Packages/User/tombstone.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
 	[
@@ -11,12 +11,13 @@
 		"tmp",
 		"log"
 	],
-	"font_face": "Source Code Pro",
-	"font_size": 21,
+	"font_face": "Source Code Pro for Powerline",
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"open_files_in_new_window": false,
 	"rulers":
 	[
 		80,
@@ -24,9 +25,10 @@
 	],
 	"show_full_path": true,
 	"tab_size": 2,
-	"theme": "ayu-dark.sublime-theme",
+	"theme": "Devastate.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
 	"ui_big_tabs": true,
 	"ui_fix_tab_labels": true,
 	"ui_font_source_code_pro": true,

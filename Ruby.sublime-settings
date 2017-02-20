@@ -1,0 +1,12 @@
+{
+	"extensions":
+	[
+		"rb",
+		"podspec",
+		"jbuilder",
+		"rabl",
+		"rake",
+		"simplecov",
+		"thor"
+	]
+}
