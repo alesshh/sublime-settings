@@ -7,15 +7,21 @@
 	[
 		"ApplySyntax",
 		"ayu",
+		"Cucumber",
+		"Cucumber Completion",
 		"Devastate",
+		"Dracula Color Scheme",
 		"Emmet",
 		"Git",
 		"Handlebars",
 		"JavaScriptNext - ES6 Syntax",
 		"JSON Reindent",
+		"JSX",
 		"Markdown Preview",
 		"Package Control",
 		"RailsGoToSpec",
+		"RSpec",
+		"rspec-snippets",
 		"RuboCop",
 		"Ruby Slim",
 		"Sass",
@@ -23,8 +29,13 @@
 		"Spec Finder",
 		"SublimeLinter",
 		"SublimeLinter-contrib-reek",
+		"Theme - Soda",
+		"Theme - SoDaReloaded",
+		"Theme - SodaSeti",
+		"Theme - Spacegray",
 		"ToggleQuotes",
 		"TrailingSpaces",
-		"WakaTime"
+		"WakaTime",
+		"zenburn"
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/tombstone.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
 	[
@@ -12,7 +12,7 @@
 		"log"
 	],
 	"font_face": "Source Code Pro for Powerline",
-	"font_size": 13,
+	"font_size": 16,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -25,7 +25,7 @@
 	],
 	"show_full_path": true,
 	"tab_size": 2,
-	"theme": "Devastate.sublime-theme",
+	"theme": "SoDaReloaded Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
@@ -33,5 +33,7 @@
 	"ui_fix_tab_labels": true,
 	"ui_font_source_code_pro": true,
 	"ui_separator": true,
-	"use_simple_full_screen": true
+	"use_simple_full_screen": true,
+	"hox_exit": false,
+	"remember_open_files": false
 }
